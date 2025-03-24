@@ -1,0 +1,13 @@
+#!/bin/bash
+# Script to insert data from courses.csv and students.csv into students database
+
+cat courses.csv | while IFS="," read MAJOR COURSE
+do
+  # get major_id
+  # if not found
+  # insert major
+  # get new major_id
+  # get course_id
+  # if not found
+  
+done

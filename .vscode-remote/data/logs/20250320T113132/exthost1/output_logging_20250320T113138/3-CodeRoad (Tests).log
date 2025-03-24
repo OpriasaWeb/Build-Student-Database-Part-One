@@ -1,0 +1,441 @@
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/360.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should display the details of the "majors_courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Table"public\.majors_courses"/.test(lastQueryResult))
+
+at Context.<anonymous> (test/370.test.js:8:5)
+FAILED TEST LOG
+  ✘ The "students" table should have the correct row added
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/420.test.js:21:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ You should use the "touch" command to create the correct file
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(directoryContents.includes('insert_data.sh') && lastCommand[0] === 'touch' && /insert_data\.sh/g.test(lastCommand[1]) && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/440.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested comment added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^#[ \t]*Script to insert data from courses.csv and students.csv into students database[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/470.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested comment added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^#[ \t]*Script to insert data from courses.csv and students.csv into students database[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/470.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/480.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should run your script by executing it
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === './insert_data.sh' && (lastCommand[1] === undefined || lastCommand[1].op === ';') && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/490.test.js:9:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/500.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/500.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/500.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/500.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+IFS=('|"|),\1[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR[ \t]+\$COURSE([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/533.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+IFS=('|"|),\1[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR[ \t]+\$COURSE([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/533.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^[ \t]*cat[ \t]+courses\.csv[ \t]*\|[ \t]+while[ \t]+IFS=('|"|),\1[ \t]+read[ \t]+MAJOR[ \t]+COURSE([ \t]*;\s*|\s*\n+\s*)do\s+echo[ \t]+\$MAJOR[ \t]+\$COURSE([ \t]*;\s*|\s*\n+\s*)done/gm.test(scriptFile))
+
+at Context.<anonymous> (test/533.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have all the suggested comments added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/do(\s*\n+\s*)#[ \t]*get major_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert major(\s*\n+\s*)#[ \t]*get new major_id(\s*\n+\s*)#[ \t]*get course_id(\s*\n+\s*)#[ \t]*if not found(\s*\n+\s*)#[ \t]*insert course(\s*\n+\s*)#[ \t]*get new course_id(\s*\n+\s*)#[ \t]*insert into majors_courses(\s*\n+\s*)done/g.test(scriptFile))
+
+at Context.<anonymous> (test/550.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/562.test.js:10:5)

@@ -1,0 +1,256 @@
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/MAJOR_ID[\s\S]*#[ \t]*if[ \t]*not[ \t]+found\s*\n+\s*if[ \t]+\[\[[ \t]+-z[ \t]+\$MAJOR_ID[ \t]+\]\]([ \t]*;\s*|\s*\n+\s*)then\s*#[ \t]*insert major\s*\n+\s*#[ \t]*get new major_id\s*\n+\s*fi[\s\S]*#[ \t]*if[ \t]+not[ \t]+found/g.test(scriptFile))
+
+at Context.<anonymous> (test/568.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested variable added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/570.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should use the "copy" command to create the correct file
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(directoryContents.includes('courses_test.csv') && lastCommand[0] === 'cp' && /courses\.csv/g.test(lastCommand[1]) && /courses_test\.csv/g.test(lastCommand[2]) && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/590.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should use the "copy" command to create the correct file
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(directoryContents.includes('courses_test.csv') && lastCommand[0] === 'cp' && /courses\.csv/g.test(lastCommand[1]) && /courses_test\.csv/g.test(lastCommand[2]) && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/590.test.js:10:5)

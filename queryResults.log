@@ -1,0 +1,40 @@
+                                 List of databases
++-----------+--------------+----------+---------+---------+-----------------------+
+|   Name    |    Owner     | Encoding | Collate |  Ctype  |   Access privileges   |
++-----------+--------------+----------+---------+---------+-----------------------+
+| postgres  | postgres     | UTF8     | C.UTF-8 | C.UTF-8 |                       |
+| students  | freecodecamp | UTF8     | C.UTF-8 | C.UTF-8 |                       |
+| template0 | postgres     | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +|
+|           |              |          |         |         | postgres=CTc/postgres |
+| template1 | postgres     | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +|
+|           |              |          |         |         | postgres=CTc/postgres |
++-----------+--------------+----------+---------+---------+-----------------------+
+(4 rows)
+
+                      List of relations
++--------+-------------------------+----------+--------------+
+| Schema |          Name           |   Type   |    Owner     |
++--------+-------------------------+----------+--------------+
+| public | courses                 | table    | freecodecamp |
+| public | courses_course_id_seq   | sequence | freecodecamp |
+| public | majors                  | table    | freecodecamp |
+| public | majors_courses          | table    | freecodecamp |
+| public | majors_major_id_seq     | sequence | freecodecamp |
+| public | students                | table    | freecodecamp |
+| public | students_student_id_seq | sequence | freecodecamp |
++--------+-------------------------+----------+--------------+
+(7 rows)
+
+                                        Table "public.majors"
++----------+-----------------------+-----------+----------+------------------------------------------+
+|  Column  |         Type          | Collation | Nullable |                 Default                  |
++----------+-----------------------+-----------+----------+------------------------------------------+
+| major_id | integer               |           | not null | nextval('majors_major_id_seq'::regclass) |
+| major    | character varying(50) |           | not null |                                          |
++----------+-----------------------+-----------+----------+------------------------------------------+
+Indexes:
+    "majors_pkey" PRIMARY KEY, btree (major_id)
+Referenced by:
+    TABLE "majors_courses" CONSTRAINT "majors_courses_major_id_fkey" FOREIGN KEY (major_id) REFERENCES majors(major_id)
+    TABLE "students" CONSTRAINT "students_major_id_fkey" FOREIGN KEY (major_id) REFERENCES majors(major_id)
+

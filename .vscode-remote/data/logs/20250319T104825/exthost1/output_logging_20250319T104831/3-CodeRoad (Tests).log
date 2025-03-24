@@ -1,0 +1,92 @@
+FAILED TEST LOG
+  ✘ You should be connected to "students"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(re.test(lastLog))
+
+at Context.<anonymous> (test/60.test.js:8:5)
+FAILED TEST LOG
+  ✘ The "students" database should have a table named "majors_courses"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/100.test.js:20:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ You should display the details of the "students" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Table"public\.students"/.test(lastQueryResult))
+
+at Context.<anonymous> (test/150.test.js:8:5)
+FAILED TEST LOG
+  ✘ The "courses" table should the correct "course_id" column
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/190.test.js:23:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ You should display the details of the "courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Table"public\.courses"/.test(lastQueryResult))
+
+at Context.<anonymous> (test/220.test.js:8:5)
+FAILED TEST LOG
+  ✘ The "majors_courses" table should the correct "major_id" column
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/230.test.js:21:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ You should display the details of the "majors_courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Table"public\.majors_courses"/.test(lastQueryResult))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should display the details of the "majors_courses" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Table"public\.majors_courses"/.test(lastQueryResult))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should display the tables with suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(d.test(lastLog))
+
+at Context.<anonymous> (test/300.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should view all the data in the "majors" table
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(selectAll.test(lastLog) && !/ERROR/.test(lastLog))
+
+at Context.<anonymous> (test/340.test.js:9:5)
+FAILED TEST LOG
+  ✘ The "courses" table should have the correct row added
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/350.test.js:21:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
